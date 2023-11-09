@@ -1,0 +1,23 @@
+{
+    "student": [
+        {
+            "id": 1,
+            "name": "Arun",
+            "fathername": "Gnanasekar",
+            "class": "I",
+            "address": "Erode",
+            "teacher": "JK"
+          }
+     
+    ],
+    "teacher":[
+
+        {
+            "id": 1,
+            "name": "JK",
+            "master": "Tamil",
+            "address": "Namakkal"
+          }
+    ]
+  }
+  
